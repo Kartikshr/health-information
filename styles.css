@@ -1,0 +1,15 @@
+.result h2 {
+    margin-top: 20px;
+}
+
+.result ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.result li {
+    background: #f8f9fa;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
